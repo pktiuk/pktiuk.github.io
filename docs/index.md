@@ -1,5 +1,5 @@
 ##  <img src="https://avatars1.githubusercontent.com/u/45544416?s=460&u=44f4aadd99d13db4e31ae7e086a95dfb1f118cc3&v=4" alt="Icon" width="100"/> About me
-Currently I am IT student at the Warsaw University of Technology.
+I am IT student at the Warsaw University of Technology.
 
 I have created this simple site to show some of my repositories and projects I am contributing to (only these worth noting).
 
