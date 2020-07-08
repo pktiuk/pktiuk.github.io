@@ -18,14 +18,13 @@ It utilizes simple genetic algorithm to do it.
 
 [genetic_circles - Gitlab](https://gitlab.com/pktiuk/genetic_circles)
 
-### Mermaid Generator
-Automatic generator of mermaid graphs 
 
 ## Projects I contributed to
 
+
 ### AntimicroX
 Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-#### My contribution
+##### My contribution
 - create configuration used for building `.deb` packages for this project using cpack
 - prepare `AppImage` package
 - Integrate repository with Github Actions to deploy packages after publishing every release and running build action after commit.
@@ -37,7 +36,7 @@ Software of this car was built using ROS (Robot Operating System).
 
 ![](https://user-images.githubusercontent.com/28540485/74652634-bdccbb00-5186-11ea-8b1c-0661c07a055a.jpg)
 
-#### My contribution
+##### My contribution
 - [detect_parking_spot](https://github.com/KNR-Selfie/selfie_carolocup2020/tree/master/src/selfie_park) - node detecting free parking spot in parking zone
 - [selfie_intersection](https://github.com/KNR-Selfie/selfie_carolocup2020/tree/master/src/selfie_intersection) - node controlling car when intersection is detected
 - [lane_controller](https://github.com/KNR-Selfie/selfie_carolocup2020/tree/master/src/selfie_avoiding_obstacles) - node detecting and overtaking obstacles on road
