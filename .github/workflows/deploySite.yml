@@ -15,7 +15,7 @@ jobs:
     - name: Install deps
       run: |
         sudo apt-get install python3-setuptools
-        pip3 install mkdocs mkdocs-bootswatch
+        sudo pip3 install mkdocs mkdocs-bootswatch
         
     - name: Deploy MkDocs
       run: |
