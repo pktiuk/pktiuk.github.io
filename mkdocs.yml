@@ -1,5 +1,5 @@
-site_name: Notatki z języków
-theme: material
+site_name: Quick introduction- pktiuk
+theme: lux
 
 markdown_extensions:
   - codehilite
