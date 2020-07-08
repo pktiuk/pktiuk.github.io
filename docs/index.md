@@ -15,7 +15,8 @@ Simple app trying to recreate chosen picture by drawing multiple circles.
 It utilizes simple genetic algorithm to do it.
 
 ![](https://gitlab.com/pktiuk/genetic_circles/-/raw/master/docs/Example.jpg)
-https://gitlab.com/pktiuk/genetic_circles
+
+[genetic_circles - Gitlab](https://gitlab.com/pktiuk/genetic_circles)
 
 ### Mermaid Generator
 Automatic generator of mermaid graphs 
@@ -37,12 +38,12 @@ Software of this car was built using ROS (Robot Operating System).
 ![](https://user-images.githubusercontent.com/28540485/74652634-bdccbb00-5186-11ea-8b1c-0661c07a055a.jpg)
 
 #### My contribution
-- node detecting free parking spot in parking zone
-- node controlling car when intersection is detected
-- lane_controller - node detecting and overtaking obstacles on road
+- [detect_parking_spot](https://github.com/KNR-Selfie/selfie_carolocup2020/tree/master/src/selfie_park) - node detecting free parking spot in parking zone
+- [selfie_intersection](https://github.com/KNR-Selfie/selfie_carolocup2020/tree/master/src/selfie_intersection) - node controlling car when intersection is detected
+- [lane_controller](https://github.com/KNR-Selfie/selfie_carolocup2020/tree/master/src/selfie_avoiding_obstacles) - node detecting and overtaking obstacles on road
 
 
-https://github.com/KNR-Selfie/selfie_carolocup2020
+[Selfie- CaroloCup 2020 main repository](https://github.com/KNR-Selfie/selfie_carolocup2020)
 
 
 
