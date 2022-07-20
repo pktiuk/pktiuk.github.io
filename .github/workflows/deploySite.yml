@@ -20,4 +20,4 @@ jobs:
     - name: Deploy MkDocs
       run: |
         mkdocs build
-        mkdocs gh-deploy -b site
+        mkdocs gh-deploy -b site --force
